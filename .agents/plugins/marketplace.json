@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "personalwiki-analyst",
+      "name": "personalwiki-skill",
       "source": {
         "source": "local",
-        "path": "./plugins/personalwiki-analyst"
+        "path": "./plugins/personalwiki-skill"
       },
       "policy": {
         "installation": "AVAILABLE",
