@@ -9,7 +9,7 @@ Use this skill when the user wants Codex to reason over their local Personal Wik
 
 ## Local Wiki Shape
 
-- The wiki root directory is variable. Do not assume `D:\Codex`; that may only be a temporary copy.
+- The wiki root directory is variable. Do not assume `C:\Wiki`; that may only be a temporary copy.
 - Stable server: `http://localhost:6885`
 - Override server with `PERSONALWIKI_URL`.
 - Prefer `PERSONALWIKI_ROOT`, an explicit `--root <path>`, or the current working directory/parents when local files or DB access are needed.
